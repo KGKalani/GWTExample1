@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<project name="Hello" default="build" basedir=".">
+<project name="App" default="build" basedir=".">
   <!-- Arguments to gwtc and devmode targets -->
   <property name="gwt.args" value="" />
 
@@ -50,7 +50,7 @@
       <arg value="war"/>
       <!-- Additional arguments like -style PRETTY or -logLevel DEBUG -->
       <arg line="${gwt.args}"/>
-      <arg value="main.java.com.Hello"/>
+      <arg value="main.java.com.App"/>
     </java>
   </target>
 
@@ -62,13 +62,13 @@
         <pathelement location="${gwt.sdk}/gwt-codeserver.jar"/>
       </classpath>
       <arg value="-startupUrl"/>
-      <arg value="Hello.html"/>
+      <arg value="App.html"/>
       <arg line="-war"/>
       <arg value="war"/>
       <!-- Additional arguments like -style PRETTY, -logLevel DEBUG or -nosuperDevMode -->
       <arg line="${gwt.args}"/>
-      <arg value="main.java.com.Hello"/>
-      <arg value="main.java.com.Hello"/>
+      <arg value="main.java.com.App"/>
+      <arg value="main.java.com.App"/>
     </java>
   </target>
 
@@ -79,7 +79,7 @@
       </classpath>
       <arg value="-XonlyEclipse"/>
       <arg value="-ignore"/>
-      <arg value="main.java.com.Hello"/>
+      <arg value="main.java.com.App"/>
     </java>
   </target>
 
@@ -148,20 +148,26 @@ Test targets suppressed because -junit argument was not specified when running w
   </target>
 -->
 
-  <target name="build" depends="gwtc" description="Build this project" />
+  <target name="build" depends="gwtc" description="Build this project">
+    <antcall target="war"/>
+  </target>
 
-  <target name="war" depends="build" description="Create a war file">
-    <zip destfile="Hello.war" basedir="war"/>
+  <!--<target name="war" depends="build" description="Create a war file">-->
+  <target name="war" description="Create a war file">
+    <zip destfile="App.war" basedir="war"/>
+    <antcall target="deployTarget"/>
   </target>
 
   <target name="clean" description="Cleans this project">
     <delete dir="war/WEB-INF/classes" failonerror="false" />
-    <delete dir="war/hello" failonerror="false" />
+    <delete dir="war/app" failonerror="false" />
+    <delete file="App.war" failonerror="false" />
+    <delete file="${tomcat.deployment}/App.war" failonerror="false" />
   </target>
 
 <!--Deploy war in tomcat server-->
-<target name="deployTarget" depends="build" description="Deploy war file in the tomcat server">
-  <copy file="Hello.war" todir="${tomcat.deployment}"/>
+<target name="deployTarget" description="Deploy war file in the tomcat server">
+  <copy file="App.war" todir="${tomcat.deployment}"/>
 </target>
 
 </project>
