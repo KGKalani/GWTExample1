@@ -2,69 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cb55267-21f8-4b1d-a2a8-b0d12543491d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/client/LabelDemo.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Hello.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B5C29F2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B5C712C" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B5C747C" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B5C7643" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B5C76AF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B5C7772" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B899C33" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8B89A72D" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8BE44075" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8BE7E021" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8BE9A01A" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8C010785" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8C0517F9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8C10A621" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gwt-unitCache/gwt-unitCache-a16975ef896ee526cd067ad8f9dd16d040e74002-FF35F588CF7564DE259004F02565B00E-0000015C8C20477B" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GWTProject1/main/java/com/client/Hello$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GWTProject1/main/java/com/client/Hello$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GWTProject1/main/java/com/client/Hello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/Hello.gwt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/Hello_stackMode_strip.gwt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/client/Hello$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/client/Hello$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/client/Hello.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/hello/rpcPolicyManifest/manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/hello/symbolMaps/563F27D7622C69F38FFA668FA820AD81.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/hello/symbolMaps/B7D54DE5FE74C131E8662BC517E52E84.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/hello/symbolMaps/C7874FD72B0BA70D534FF29D9899F573.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/hello/symbolMaps/E55C30EA6E397B202E9C3AF0B103F5C9.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/hello/symbolMaps/EC7AF76309043533564E3C484AE85CC7.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/helloworld/rpcPolicyManifest/manifest.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/helloworld/symbolMaps/37F8AC12E2DDA8D646CAB54CB38A0E98.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/helloworld/symbolMaps/69EC39295025DECE56B6E37EE194B796.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/helloworld/symbolMaps/78C0E8EDC74D5FF66B0931718BAA789E.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/helloworld/symbolMaps/C1ABA86EB4C8C7C3AD2004F38451D427.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/WEB-INF/deploy/helloworld/symbolMaps/C6F72B18177EE3E5E0DD4AFAD5C08A76.symbolMap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/563F27D7622C69F38FFA668FA820AD81.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/B7D54DE5FE74C131E8662BC517E52E84.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/C7874FD72B0BA70D534FF29D9899F573.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/E55C30EA6E397B202E9C3AF0B103F5C9.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/EC7AF76309043533564E3C484AE85CC7.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/clear.cache.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/compilation-mappings.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/clean.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/clean_rtl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/images/circles.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/images/corner.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/images/hborder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/images/thumb_horz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/images/thumb_vertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/gwt/clean/images/vborder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/hello.devmode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/war/hello/hello.nocache.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/client/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/com/client/ButtonDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/war/Hello.html" afterPath="$PROJECT_DIR$/war/App.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/war/HelloWorld.css" afterPath="$PROJECT_DIR$/war/resource/css/app.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/Hello.gwt.xml" afterPath="$PROJECT_DIR$/src/main/java/com/App.gwt.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/Hello_stackMode_strip.gwt.xml" afterPath="$PROJECT_DIR$/src/main/java/com/App_stackMode_strip.gwt.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/war/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/App.html" afterPath="$PROJECT_DIR$/war/App.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,15 +19,9 @@
       <file leaf-file-name="ButtonDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/client/ButtonDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="509">
+            <state relative-caret-position="646">
               <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#763#764#0" expanded="true" />
-                <element signature="e#847#848#0" expanded="true" />
-                <element signature="e#1088#1089#0" expanded="true" />
-                <element signature="e#1174#1175#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -96,11 +29,9 @@
       <file leaf-file-name="LabelDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/client/LabelDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="323">
               <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,7 +39,7 @@
       <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/war/resource/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
+            <state relative-caret-position="532">
               <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding />
             </state>
@@ -118,7 +49,7 @@
       <file leaf-file-name="build.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1292">
+            <state relative-caret-position="1558">
               <caret line="82" column="11" lean-forward="false" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
               <folding />
             </state>
@@ -148,11 +79,9 @@
       <file leaf-file-name="App.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/war/App.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-              <folding>
-                <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-              </folding>
+            <state relative-caret-position="313">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -253,6 +182,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -361,9 +293,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -660,10 +589,19 @@
       <option name="presentableId" value="Default" />
       <updated>1496984530534</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implement_new_label">
+      <created>1498136205676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498136205676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -676,11 +614,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47419354" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.592233" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6213592" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18964143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34304208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19282869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -693,6 +630,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34304208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -728,6 +666,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement_new_label" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement_new_label" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -737,17 +679,27 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/App_stackMode_strip.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/App.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/client/ButtonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="31" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -755,9 +707,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -781,9 +731,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" column="33" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="33" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -791,13 +739,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -813,9 +755,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -831,13 +771,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -853,9 +787,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -871,13 +803,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -885,9 +811,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -903,13 +827,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -917,9 +835,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -935,13 +851,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="27" column="69" lean-forward="false" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -949,9 +859,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="31" column="27" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="27" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -966,13 +874,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Main.java" />
     <entry file="file://$PROJECT_DIR$/COPYING" />
-    <entry file="file://$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/Hello.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/war/WEB-INF/classes/main/java/com/Hello.gwt.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/COPYING" />
     <entry file="file://$PROJECT_DIR$/war/WEB-INF/classes/COPYING" />
     <entry file="file://$PROJECT_DIR$/war/WEB-INF/classes/Hello.gwt.xml" />
@@ -1031,40 +933,26 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/hello/ED84C39BBA1111607655EEE3ABA0A4C9.cache.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/war/hello/ED84C39BBA1111607655EEE3ABA0A4C9.cache.js" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/client/ButtonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
+        <state relative-caret-position="646">
           <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#1088#1089#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/client/LabelDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="323">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/war/resource/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
+        <state relative-caret-position="532">
           <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding />
         </state>
@@ -1086,14 +974,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/hello/hello.nocache.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/war/hello/hello.nocache.js" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/App.gwt.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1112,7 +993,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1292">
+        <state relative-caret-position="1558">
           <caret line="82" column="11" lean-forward="false" selection-start-line="82" selection-start-column="11" selection-end-line="82" selection-end-column="11" />
           <folding />
         </state>
@@ -1120,11 +1001,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/war/App.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-          <folding>
-            <marker date="1498135806130" expanded="false" signature="1409:1569" ph="..." />
-          </folding>
+        <state relative-caret-position="313">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
